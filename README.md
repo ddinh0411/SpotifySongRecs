@@ -5,6 +5,10 @@ This is a remaster of an older project called [SpotifyRecs](https://github.com/l
 
 This project will be a fully web-based implementation and improvement of the old project's code and logic based off of new knowledge and skills that me and my team didn't have access to prior. This project will also be done entirely by me as a showcase of my skills and improvements in web-engineering and full-stack development.
 
+## Site Link
+
+Here's the link to the site: [Spotify Recs Site](https://spotify-recs-bay.vercel.app/)
+
 ## Features
 
 The main features from the previous iteration should roughly be the same with a Site that serves as the front-end, a database that will have records of the songs to recommend to the user, and the backend logic to grab the necessary information from either Spotify's API or the database and display it on the frontend. The major differences is where each of these components are hosted and stored and also additional features such as new and updated displays for the frontend, and a redesigned database to store more information from the API and potentially more tables to keep track of more data.
