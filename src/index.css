@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 200;
+
+    background-color: var(--color-base);
+    color: var(--color-tertiary)
+}
+
+html {
+  /* variables */
+  --color-primary: 	#1db954;
+  --color-secondary: #535353;
+  --color-tertiary: #b3b3b3;
+  --color-base: #212121;
+  --color-dark: #121212;
+  --color-light: #ffff;
+
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;     
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--color-light);
+}
