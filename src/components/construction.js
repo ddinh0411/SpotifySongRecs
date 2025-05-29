@@ -1,6 +1,4 @@
-import '../styles/globals.css';
-
-export default function Home() {
+export default function Construction() {
   return (
     <>
     <div className="body">
